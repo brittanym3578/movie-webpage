@@ -5,9 +5,19 @@ h1{
   text-align:center; 
   color:brown;
   font-family: 'Cinzel Decorative', cursive;
+
   font-size:70px;
+
+  
+
 }
 h2{
-font-family: 'Mouse Memoirs', sans-serif;
+text-align:center;
+font-family: 'Dancing Script', cursive;
+font-size:40px;
 }
 img{opacity: 0.2;}
+
+.red {
+    color:red;
+}
