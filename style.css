@@ -1,27 +1,28 @@
-body{
-    
-}
-h1{
-  text-align:center; 
-  color:brown;
+body {}
+
+h1 {
+  text-align: center;
+  color: brown;
   font-family: 'Cinzel Decorative', cursive;
-
-  font-size:70px;
-
-  
-
+  font-size: 70px;
 }
-h2{
-text-align:center;
-font-family: 'Dancing Script', cursive;
-font-size:40px;
+
+h2 {
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 40px;
 }
-img{opacity: 0.2;}
+
+img {
+  opacity: 0.2;
+}
 
 .red {
-    color:red;
+  color: red;
 }
 
 .text {
-  background-color: lightgreen ;
+  background-color: lightgreen;
+  margin: 80px;
+  padding: 50px 40px;
 }
