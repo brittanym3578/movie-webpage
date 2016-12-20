@@ -15,9 +15,17 @@ h2 {
 
 p {
     text-align: left;
-    font-family: 
+    font-family: 'Dancing Script', cursive;
     font-size: 23px;
     color: #000033;
+}
+div {
+    background-image: url("brown.jpg");
+    background-attachment: absolute;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    background: url(brown.jpg) no-repeat center center fixed ;
 }
 
 .red {
@@ -42,4 +50,10 @@ p {
     border: 5px solid brown;
     font-family: 'Dancing Script', cursive;
     font-size: 19px;
+    
+}
+.button {
+    margin-left: 5px;
+    border-radius: 20px;
+    color: brown;
 }
