@@ -13,15 +13,18 @@ h2 {
   font-size: 40px;
 }
 
-img {
-  opacity: 0.2;
+p {
+    text-align: left;
+    font-family: 
+    font-size: 23px;
+    color: #000033;
 }
 
 .red {
   color: red;
 }
 
-.text {
+.content {
   background-color: lightgreen;
   margin: 80px;
   padding: 50px 40px;
