@@ -57,3 +57,16 @@ div {
     border-radius: 20px;
     color: brown;
 }
+.cast {
+    padding: 20px;
+    margin: 50px;
+    margin-bottom: 75px;
+    height: 400px;
+    background-color: #99ff99;
+    border-radius: 50px;
+}
+#cast {
+    padding-right: 50px;
+    padding-left: 10px;
+    float: left;
+}
