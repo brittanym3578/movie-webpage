@@ -14,18 +14,21 @@ h2 {
 }
 
 p {
-    text-align: left;
-    font-family: 'Dancing Script', cursive;
-    font-size: 23px;
-    color: #000033;
+  text-align: left;
+  font-family: 'Dancing Script', cursive;
+  font-size: 23px;
+  color: #000033;
 }
+
 div {
-    background-image: url("brown.jpg");
-    background-attachment: absolute;
-    background-repeat: no-repeat;
-    background-position: center;
-    text-align: center;
-    background: url(brown.jpg) no-repeat center center fixed ;
+  background-image: url("brown.jpg");
+  background-attachment: absolute;
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+  background: url(brown.jpg) no-repeat center center fixed;
+  margin: 80px;
+  padding: 50px 40px;
 }
 
 .brown {
@@ -34,24 +37,22 @@ div {
 
 .content {
   background-color: lightgreen;
-  margin: 80px;
-  padding: 50px 40px;
 }
 
 .form {
-    padding: 10px;
-    margin: 50px;
-    background-color: orange;
-    position: fixed;
-    bottom: -50px;
-    right: 10px;
-    width: 400px;
-    height: 40px;
-    border: 5px solid brown;
-    font-family: 'Dancing Script', cursive;
-    font-size: 19px;
-    
+  padding: 10px;
+  margin: 50px;
+  background-color: orange;
+  position: fixed;
+  bottom: -50px;
+  right: 10px;
+  width: 400px;
+  height: 40px;
+  border: 5px solid brown;
+  font-family: 'Dancing Script', cursive;
+  font-size: 19px;
 }
+
 .button {
     margin-left: 5px;
     border-radius: 20px;
@@ -70,3 +71,7 @@ div {
     padding-left: 10px;
     float: left;
 }
+  
+  
+
+
