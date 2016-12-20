@@ -62,7 +62,7 @@ div {
     padding: 20px;
     margin: 50px;
     margin-bottom: 75px;
-    height: 400px;
+    height: 500px;
     background-color: #99ff99;
     border-radius: 50px;
 }
@@ -71,7 +71,12 @@ div {
     padding-left: 10px;
     float: left;
 }
-  
+ul {
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    text-align: left;
+    color: white;
+}
   
 
 
