@@ -39,6 +39,9 @@ div {
   background-color: lightgreen;
 }
 
+/*.paragraph {*/
+/*  padding: 80px, 80px;*/
+/*}*/
 .form {
   padding: 10px;
   margin: 50px;
@@ -73,5 +76,7 @@ div {
 }
   
   
-
+#tomandjerry1 {
+  float: right;
+}
 
